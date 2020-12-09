@@ -13,6 +13,7 @@ I'm still trying to get the CSS right, and I could play around with it all day, 
 In the future, I would like to add more responsiveness, a prettier Navbar, etc.  I'd like to gain more proficiency in changing and manipulating all the different style elements.
 
 My project is deployed, and a link to the deployed application can be found here:
+https://ashadria1.github.io/responsive-portfolio/
 
 Here are some screenshots of my application:
 
