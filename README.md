@@ -19,9 +19,7 @@ Here are some screenshots of my application:
 
 - Screenshot of unit tests passing:
 
-![Screenshot of unit tests in action!](Develop/Assets/Unit-Tests-Pass.PNG?raw=true "Screenshot of unit tests in action!")
+![About Me page](Assets/Images/screenshot-aboutme.PNG?raw=true "About Me page")
+![Contact page](Assets/Images/screenshot-contact.PNG?raw=true "Contact page")
+![Portfolio page](Assets/Images/screenshot-portfolio.PNG?raw=true "Portfolio page")
 
-![About Me page](Assets/Images/screenshot-aboutme.png?raw=true "About Me page")
-![Contact page](Assets/Images/screenshot-contact.png?raw=true "Contact page")
-![Portfolio page](Assets/Images/screenshot-portfolio.png?raw=true "Portfolio page")
-```
