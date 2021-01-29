@@ -18,7 +18,7 @@ https://ashadria1.github.io/responsive-portfolio/
 Here are some screenshots of my application:
 
 ```md
-![About Me page](assets/images/screenshot-aboutme.png)
-![Contact page](assets/images/screenshot-contact.png)
-![Portfolio page](assets/images/screenshot-portfolio.png)
+![About Me page](Assets/Images/screenshot-aboutme.png)
+![Contact page](Assets/Images/screenshot-contact.png)
+![Portfolio page](Assets/Images/screenshot-portfolio.png)
 ```
